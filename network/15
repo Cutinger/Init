@@ -1,0 +1,3 @@
+Grace a la commande " sudo vi /etc/hosts " c'est possible il faut ajouter "46.19.122.85 intra.42.fr" dans le dossier seulement en tant que root 
+
+/etc/hosts pour voir le resultat.

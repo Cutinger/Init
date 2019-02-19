@@ -1,0 +1,5 @@
+Pour ce connecter de facon graphique a un user il faut :
+    Session graphique - switch user dans la barre de menu
+Pour ce connecter de facon ssh a un user il faut :
+    " su user " et apres le mot de pass.
+

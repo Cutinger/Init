@@ -1,0 +1,6 @@
+il faut modifier le fichier /etc/hostsname
+
+Il faut egalement remplacer l'ancien hostname par le nouveau dans le fichier /etc/hosts si l'on souhaite eviter les problemes de routage par la suite (pour acceder a sudo par exemple...) :
+
+127.0.0.1	localhost
+127.0.1.1	stretch.localdomain new-hostname

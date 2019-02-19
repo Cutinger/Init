@@ -1,0 +1,2 @@
+host "$(ipconfig getifaddr en0)"
+9.9.12.10.in-addr.arpa domain name pointer e2r9p9.42.fr.
